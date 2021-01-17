@@ -44,12 +44,12 @@
          "height":32,
          "id":13,
          "name":"jitsi-shisha",
-         "opacity":1,
+         "opacity":0.98,
          "properties":[
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shisha-raum-bonfire"
+                 "value":"shisharaumbonfire"
                 }],
          "type":"tilelayer",
          "visible":true,
